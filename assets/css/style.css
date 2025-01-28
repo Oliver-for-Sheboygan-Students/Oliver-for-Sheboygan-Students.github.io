@@ -101,7 +101,7 @@ h6 {
 
 #header .logo h1 a,
 #header .logo h1 a:hover {
-  color: hsl(266, 55%, 30%);
+  color: hsl(327, 83%, 10%);
   text-decoration: none;
 }
 
@@ -115,20 +115,20 @@ h6 {
   margin: 0 0 0 30px;
   border: solid 2px;
   border-radius: 20px;
-  border-color: hsl(266, 55%, 80%);
+  border-color: hsl(327, 83%, 60%);
 }
 
 #header .contribute:hover {
-  border-color: hsl(266, 55%, 85%);
+  border-color: hsl(327, 83%, 65%);
 }
 
 #header .contribute a {
-  color: hsl(266, 55%, 60%);
+  color: hsl(327, 83%, 60%);  
   padding: 0 5px;
 }
 
 #header .contribute a:hover {
-  color: hsl(266, 55%, 70%);
+  color: hsl(327, 83%, 50%);
 }
 
 /*--------------------------------------------------------------
@@ -391,7 +391,7 @@ h6 {
 }
 
 #hero h1 .main {
-  color: hsl(266, 55%, 60%);
+  color: hsl(327, 83%, 40%);
 }
 
 #hero h1 .minor {
@@ -418,12 +418,12 @@ h6 {
   border-radius: 3px;
   transition: 0.5s;
   color: #fff;
-  background: hsl(266, 55%, 60%);
+  background: hsl(327, 83%, 40%);
 }
 
 .btn-get-started:hover {
   color: #fff;
-  background: hsl(266, 55%, 70%);
+  background: hsl(327, 83%, 50%);
 }
 
 #hero .hero-img {
@@ -719,7 +719,7 @@ section {
 }
 
 .get-involved .get-involved-form button[type=submit], .get-involved .button {
-  background: hsl(266, 55%, 60%);
+  background: hsl(327, 83%, 40%);
   border: 0;
   padding: 10px 24px;
   color: #fff;
@@ -728,7 +728,7 @@ section {
 }
 
 .get-involved .get-involved-form button[type=submit]:hover, .get-involved .button:hover {
-  background: hsl(266, 55%, 80%);
+  background: hsl(327, 83%, 60%);
 }
 
 .get-involved .contact-info label {
